@@ -10,3 +10,8 @@ An online shopping web application
 1. create database in you mysql and give it name “**shopping_app**”
 
 2. change user name and password of your mysql in application.properties file.
+
+## React js Frontend
+
+1. npm i
+2. npm run dev
